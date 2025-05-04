@@ -41,16 +41,13 @@ Merged multiple years data
 
 ## Key Findings
 
-1.Failed food count increases over years. The Risk category products show high increase in count whereas surveillance has slight dip.
-2.Origin Trends: 
-  India tops in risk category with major failed foods items like chilli powder and tapioca chips. In surveillance category, China tops with items failing in fruit and       vegetables residue screen test.
-3.Producer Trends:
-  Arira Pangindo from Indonesia has mostly failed in inspections in 2024 with cassava chips due to detection of hydrocyanic acid more than level permitted.
-  Pt Rani Investindo has failed more products in September 2023
-  Innovative Cuisine has contributed to high increase of food failure in 2024.
-4.Criteria Trends: 
-  FSC 1.4.1 failed more products from Indonesia & India on detection of Hydrocyanic acid, Histamine, Aflatoxin in excess levels. 
-  FSC 1.4.2 tops the reference for food failure under surveillance category after undergoing fruit and vegetable residue test.
+1. Failed food count increases over years. The Risk category products show high increase in count whereas surveillance has slight dip.
+
+2. Origin Trends: India tops in risk category with major failed foods items like chilli powder and tapioca chips. In surveillance category, China tops with items failing in fruit and vegetables residue screen test.
+
+3. Producer Trends: Arira Pangindo from Indonesia has mostly failed in inspections in 2024 with cassava chips due to detection of hydrocyanic acid more than level permitted.Pt Rani Investindo has failed more products in September 2023. Innovative Cuisine has contributed to high increase of food failure in 2024.
+
+4. Criteria Trends: FSC 1.4.1 failed more products from Indonesia & India on detection of Hydrocyanic acid, Histamine, Aflatoxin in excess levels. FSC 1.4.2 tops the reference for food failure under surveillance category after undergoing fruit and vegetable residue test.
 
 ## Recommendations
 
